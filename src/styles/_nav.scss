@@ -1,0 +1,24 @@
+nav {
+    background-color: rgb(255, 133, 3);
+    display: flex;
+    justify-content: space-between;
+    img {
+        display: flex;
+        width: 50px;
+        margin: 0.75rem 0 0.75rem 7rem;
+
+    }
+    ul {
+        display: flex;
+        margin-right: 3rem;
+        align-items: center;
+        li {
+            padding: 0.5rem 1rem;
+            a {
+                font-weight: 700;
+                font-size: 1rem;
+                color: rgb(243, 243, 243);
+            }
+        }
+    }
+}
