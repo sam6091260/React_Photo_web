@@ -5,13 +5,13 @@ import shhh from "../image/shhh.png";
 const Nav = () => {
   return (
     <nav>
-      <Link to="/">
+      <Link to="/React_Photo_web">
         {" "}
         <img src={shhh} alt="logo" />
       </Link>
       <ul>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/React_Photo_web">Home</Link>
         </li>
         <li>
           <Link to="/about">About</Link>

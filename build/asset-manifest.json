@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Photo_web/static/css/main.dde486f0.css",
+    "main.js": "/React_Photo_web/static/js/main.421599fb.js",
+    "static/media/sss.png": "/React_Photo_web/static/media/sss.0570a5e1b18d3632add1.png",
+    "static/media/shhh.png": "/React_Photo_web/static/media/shhh.974cc555185847331cad.png",
+    "index.html": "/React_Photo_web/index.html",
+    "main.dde486f0.css.map": "/React_Photo_web/static/css/main.dde486f0.css.map",
+    "main.421599fb.js.map": "/React_Photo_web/static/js/main.421599fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde486f0.css",
+    "static/js/main.421599fb.js"
+  ]
+}
